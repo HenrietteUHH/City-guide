@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 New recommendation
+=======
+>>>>>>> 7eb91c6 (Added new recommendation to the city guide)
+New recommendation: Visit the hidden rooftop café for the best city view!
